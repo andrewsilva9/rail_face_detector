@@ -1,3 +1,6 @@
+# Warning:
+This repo is not going to be supported in the future. I have the official / supported package to: https://github.com/GT-RAIL/rail_face_detector. GT-RAIL's package will be supported and maintained, so please clone / use that one.
+
 # rail_face_detector
 Face detection node using caffe and python
 
